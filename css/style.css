@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(20, 5, 223);
+    height: 100px;
+    color: aliceblue;
+    text-align: start;
+}
+.main_section{
+display: flex;
+margin-top: 2%;
+margin-bottom: 1%;
+}
+.left{
+margin-right: 1%;
+background-color: aqua;
+height: 600px;
+width: 20%;
+color: chocolate;
+text-align: start;
+}
+.middle{
+margin-right: 1%;
+background-color: brown;
+height: 600px;
+width: 60%;
+color: cyan;
+text-align: start;
+}
+.right{
+background-color: rgb(46, 0, 0);
+height: 600px;
+width: 20%;
+color: hotpink;
+text-align: start;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    color: yellow;
+    text-align: start;
+}
